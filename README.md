@@ -59,5 +59,5 @@ I’ll write a SQL query to retrieve records for employees who are not in the `I
  <h2>Summary</h2>
  
 I have practiced using SQL to
-•	run SQL queries to retrieve information from a database
-•	apply `AND`, `OR`, and `NOT` operators to filter SQL queries.
+- run SQL queries to retrieve information from a database
+- apply `AND`, `OR`, and `NOT` operators to filter SQL queries.
